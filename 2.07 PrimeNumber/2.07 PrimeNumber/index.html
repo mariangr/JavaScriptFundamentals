@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function IsPrime(number)
+        {
+            var isPrime = true;
+            for (var i = 2; i < Math.sqrt(number) ; i++) {
+                if (number % i == 0) {
+                    isPrime = false;
+                }
+            }
+            return isPrime;
+        }
+
+        document.write(IsPrime(3) + "<br>");
+        document.write(IsPrime(6) + "<br>");
+        document.write(IsPrime(11) + "<br>");
+        document.write(IsPrime(12) + "<br>");
+
+        </script>
+</body>
+</html>

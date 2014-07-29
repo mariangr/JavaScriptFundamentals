@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\2.05 ThirdBitIs0Or1\2.05 ThirdBitIs0Or1\bin\2.05 ThirdBitIs0Or1.dll
+D:\Projects\JavaScript Fundamentals\2.05 ThirdBitIs0Or1\2.05 ThirdBitIs0Or1\bin\2.05 ThirdBitIs0Or1.pdb
+D:\Projects\JavaScript Fundamentals\2.05 ThirdBitIs0Or1\2.05 ThirdBitIs0Or1\obj\Debug\2.05 ThirdBitIs0Or1.dll
+D:\Projects\JavaScript Fundamentals\2.05 ThirdBitIs0Or1\2.05 ThirdBitIs0Or1\obj\Debug\2.05 ThirdBitIs0Or1.pdb

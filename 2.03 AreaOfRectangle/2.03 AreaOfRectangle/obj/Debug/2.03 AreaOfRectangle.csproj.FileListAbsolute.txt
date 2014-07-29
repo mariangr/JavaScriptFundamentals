@@ -1,0 +1,4 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\2.03 AreaOfRectangle\2.03 AreaOfRectangle\bin\2.03 AreaOfRectangle.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\2.03 AreaOfRectangle\2.03 AreaOfRectangle\bin\2.03 AreaOfRectangle.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\2.03 AreaOfRectangle\2.03 AreaOfRectangle\obj\Debug\2.03 AreaOfRectangle.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\2.03 AreaOfRectangle\2.03 AreaOfRectangle\obj\Debug\2.03 AreaOfRectangle.pdb

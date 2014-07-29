@@ -1,0 +1,4 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\2.02 DevidedBySevenAndFive\2.02 DevidedBySevenAndFive\bin\2.02 DevidedBySevenAndFive.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\2.02 DevidedBySevenAndFive\2.02 DevidedBySevenAndFive\bin\2.02 DevidedBySevenAndFive.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\2.02 DevidedBySevenAndFive\2.02 DevidedBySevenAndFive\obj\Debug\2.02 DevidedBySevenAndFive.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\2.02 DevidedBySevenAndFive\2.02 DevidedBySevenAndFive\obj\Debug\2.02 DevidedBySevenAndFive.pdb

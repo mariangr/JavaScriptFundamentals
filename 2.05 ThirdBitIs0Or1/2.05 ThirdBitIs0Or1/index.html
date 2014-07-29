@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function ThirdBit(number) {
+            var mask = 1 << 3;
+            var result = mask & number;
+            
+            result >> 3;
+            if (result == 0) {
+                return 0;
+            }
+            else {
+                return 1;
+            }
+        }
+        document.write("The third bit of the number: <br>")
+        document.write("50: " + ThirdBit(50) + "<br>");
+        document.write("10: " + ThirdBit(10) + "<br>");
+        document.write("15: " + ThirdBit(15) + "<br>");
+        document.write("101: " + ThirdBit(101) + "<br>");
+        document.write("2: " + ThirdBit(2) + "<br>");
+        document.write("8: " + ThirdBit(8) + "<br>");
+
+        </script>
+</body>
+</html>

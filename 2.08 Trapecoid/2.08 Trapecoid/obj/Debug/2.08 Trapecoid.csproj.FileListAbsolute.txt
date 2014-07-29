@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\2.08 Trapecoid\2.08 Trapecoid\bin\2.08 Trapecoid.dll
+D:\Projects\JavaScript Fundamentals\2.08 Trapecoid\2.08 Trapecoid\bin\2.08 Trapecoid.pdb
+D:\Projects\JavaScript Fundamentals\2.08 Trapecoid\2.08 Trapecoid\obj\Debug\2.08 Trapecoid.dll
+D:\Projects\JavaScript Fundamentals\2.08 Trapecoid\2.08 Trapecoid\obj\Debug\2.08 Trapecoid.pdb

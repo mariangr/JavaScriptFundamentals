@@ -1,0 +1,5 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\2.04 ThirdDigitIsSeven\2.04 ThirdDigitIsSeven\bin\2.04 ThirdDigitIsSeven.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\2.04 ThirdDigitIsSeven\2.04 ThirdDigitIsSeven\bin\2.04 ThirdDigitIsSeven.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\2.04 ThirdDigitIsSeven\2.04 ThirdDigitIsSeven\obj\Debug\2.04 ThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\2.04 ThirdDigitIsSeven\2.04 ThirdDigitIsSeven\obj\Debug\2.04 ThirdDigitIsSeven.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\2.04 ThirdDigitIsSeven\2.04 ThirdDigitIsSeven\obj\Debug\2.04 ThirdDigitIsSeven.pdb

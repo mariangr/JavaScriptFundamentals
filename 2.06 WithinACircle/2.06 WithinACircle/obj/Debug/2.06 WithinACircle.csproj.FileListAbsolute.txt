@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\2.06 WithinACircle\2.06 WithinACircle\bin\2.06 WithinACircle.dll
+D:\Projects\JavaScript Fundamentals\2.06 WithinACircle\2.06 WithinACircle\bin\2.06 WithinACircle.pdb
+D:\Projects\JavaScript Fundamentals\2.06 WithinACircle\2.06 WithinACircle\obj\Debug\2.06 WithinACircle.dll
+D:\Projects\JavaScript Fundamentals\2.06 WithinACircle\2.06 WithinACircle\obj\Debug\2.06 WithinACircle.pdb

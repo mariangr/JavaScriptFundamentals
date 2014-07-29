@@ -1,0 +1,5 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 - 1.04\1.01 - 1.04\bin\1.01 - 1.04.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 - 1.04\1.01 - 1.04\bin\1.01 - 1.04.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 - 1.04\1.01 - 1.04\obj\Debug\1.01 - 1.04.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 - 1.04\1.01 - 1.04\obj\Debug\1.01 - 1.04.dll
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 - 1.04\1.01 - 1.04\obj\Debug\1.01 - 1.04.pdb
