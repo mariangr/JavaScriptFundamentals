@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [1, 2, 2, 2, 2, 4, 5, 8, 6, 6, 6, 6, 6, 6, 4, 5, 9, 10, 11];
+        var searchedNumber = array[0];
+        var sequenceNumber = 1;
+        var maxSequenceNumber = 1;
+        var alabala = array.length;
+        for (var i = 1; i < array.length; i++)
+        {
+            if (array[i] != searchedNumber) {
+                if (maxSequenceNumber < sequenceNumber) {
+                    maxSequenceNumber = sequenceNumber;
+                }
+                searchedNumber = array[i];
+                sequenceNumber = 1;
+            }
+            else {
+                sequenceNumber++;
+            }
+        }
+        document.write(maxSequenceNumber);
+        </script>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="inputdiv">
+            <div class="input">
+            <label for="tb-first">Numbers separated by comma(,): </label>
+            <input type="text" id="numbersInput"/>
+
+            </div>	
+            <div id="inputbutton">
+            <a href="#" onclick="CalculateMinAndMaxValue()">Calculate Min and Max value</a>
+            </div>
+        </div>
+
+    <script>
+        function CalculateMinAndMaxValue() {
+            var input = document.getElementById("numbersInput").value.split(",");
+            input.sort();
+
+            var outTxt = "Min:" + input[0] + "; Max:" + input[input.length - 1] + ";";
+
+            if ((isNaN(parseInt(input[input.length - 1])) && isNaN(parseFloat(input[input.length - 1]))) || (isNaN(parseInt(input[0])) && isNaN(parseFloat(input[0])))) {
+                outTxt = "Invalid input!";
+            }
+
+            document.write(outTxt + " <br>");
+        }
+        </script>
+</body>
+</html>

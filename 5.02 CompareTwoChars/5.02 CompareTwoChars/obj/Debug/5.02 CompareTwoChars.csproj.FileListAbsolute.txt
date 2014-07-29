@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\5.02 CompareTwoChars\5.02 CompareTwoChars\bin\5.02 CompareTwoChars.dll
+D:\Projects\JavaScript Fundamentals\5.02 CompareTwoChars\5.02 CompareTwoChars\bin\5.02 CompareTwoChars.pdb
+D:\Projects\JavaScript Fundamentals\5.02 CompareTwoChars\5.02 CompareTwoChars\obj\Debug\5.02 CompareTwoChars.dll
+D:\Projects\JavaScript Fundamentals\5.02 CompareTwoChars\5.02 CompareTwoChars\obj\Debug\5.02 CompareTwoChars.pdb

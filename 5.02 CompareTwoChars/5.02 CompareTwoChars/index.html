@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        debugger;
+        var firstArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i'];
+        var secondArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i'];
+        var thirdArray = ['b', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
+    
+
+        function Compare(first, second) {
+            var areEqual = 0;
+            var length = first.length;
+            if (first.length > second.length) {
+                length = second.length;
+            }
+            else {
+                length = first.length;
+            }
+            for (var i = 0; i < length ; i++) {
+
+                if (first[i] > second[i]) {
+                    areEqual = 1;
+                    break;
+                }
+                else if (first[i] < second[i]) {
+                    areEqual = -1;
+                    break;
+                }
+
+
+            }
+
+            if (areEqual == 0)
+            {
+                if (first.length > second.length){
+                    return 1;
+                }
+                else if (first.length < second.length) {
+                    return -1;
+                }
+            }
+            if (areEqual == -1) {
+                return "The first array is first lexicographically";
+            }
+            if (areEqual == 1) {
+                return "The second array is first lexicographically";
+            }
+            if (areEqual == 0) {
+                return "They are the same.";
+            }
+        }
+
+        document.write(Compare(firstArray, secondArray) + "<br>");
+        document.write(Compare(firstArray, thirdArray) + "<br>");
+        document.write(Compare(thirdArray, secondArray) + "<br>");
+
+        </script>
+</body>
+</html>

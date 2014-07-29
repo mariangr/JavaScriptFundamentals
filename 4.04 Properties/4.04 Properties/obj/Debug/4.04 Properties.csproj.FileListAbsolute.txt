@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\4.04 Properties\4.04 Properties\bin\4.04 Properties.dll
+D:\Projects\JavaScript Fundamentals\4.04 Properties\4.04 Properties\bin\4.04 Properties.pdb
+D:\Projects\JavaScript Fundamentals\4.04 Properties\4.04 Properties\obj\Debug\4.04 Properties.dll
+D:\Projects\JavaScript Fundamentals\4.04 Properties\4.04 Properties\obj\Debug\4.04 Properties.pdb

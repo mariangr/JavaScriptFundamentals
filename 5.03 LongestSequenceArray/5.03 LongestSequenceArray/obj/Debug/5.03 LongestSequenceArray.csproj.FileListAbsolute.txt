@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\5.03 LongestSequenceArray\5.03 LongestSequenceArray\bin\5.03 LongestSequenceArray.dll
+D:\Projects\JavaScript Fundamentals\5.03 LongestSequenceArray\5.03 LongestSequenceArray\bin\5.03 LongestSequenceArray.pdb
+D:\Projects\JavaScript Fundamentals\5.03 LongestSequenceArray\5.03 LongestSequenceArray\obj\Debug\5.03 LongestSequenceArray.dll
+D:\Projects\JavaScript Fundamentals\5.03 LongestSequenceArray\5.03 LongestSequenceArray\obj\Debug\5.03 LongestSequenceArray.pdb

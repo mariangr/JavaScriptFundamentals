@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\5.01 AlocateArray\5.01 AlocateArray\bin\5.01 AlocateArray.dll
+D:\Projects\JavaScript Fundamentals\5.01 AlocateArray\5.01 AlocateArray\bin\5.01 AlocateArray.pdb
+D:\Projects\JavaScript Fundamentals\5.01 AlocateArray\5.01 AlocateArray\obj\Debug\5.01 AlocateArray.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\5.01 AlocateArray\5.01 AlocateArray\obj\Debug\5.01 AlocateArray.dll
+D:\Projects\JavaScript Fundamentals\5.01 AlocateArray\5.01 AlocateArray\obj\Debug\5.01 AlocateArray.pdb

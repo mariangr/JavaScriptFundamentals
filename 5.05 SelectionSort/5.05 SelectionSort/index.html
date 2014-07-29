@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [58, 6, 1, 8, 32, 1, 325, 5, 8, 3, 5, 9, 6, 2, 9, 23, -5];
+
+        for (var i = 0; i < array.length - 1; i++) {
+            var currentMin = array[i];
+            for (var j = i + 1; j < array.length; j++) {
+                
+                if (currentMin > array[j]) {
+                    index = j;
+                    currentMin = array[j];
+                }
+            }
+            var temp = array[i];
+            array[i] = array[index];
+            array[index] = temp;
+        }
+
+        for (var element in array) {
+            document.write(array[element] + " ");
+        };
+
+
+
+        </script>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\5.05 SelectionSort\5.05 SelectionSort\bin\5.05 SelectionSort.dll
+D:\Projects\JavaScript Fundamentals\5.05 SelectionSort\5.05 SelectionSort\bin\5.05 SelectionSort.pdb
+D:\Projects\JavaScript Fundamentals\5.05 SelectionSort\5.05 SelectionSort\obj\Debug\5.05 SelectionSort.dll
+D:\Projects\JavaScript Fundamentals\5.05 SelectionSort\5.05 SelectionSort\obj\Debug\5.05 SelectionSort.pdb

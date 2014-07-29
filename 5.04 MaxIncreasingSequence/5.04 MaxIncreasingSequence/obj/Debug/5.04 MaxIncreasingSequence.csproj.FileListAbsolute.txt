@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\5.04 MaxIncreasingSequence\5.04 MaxIncreasingSequence\bin\5.04 MaxIncreasingSequence.dll
+D:\Projects\JavaScript Fundamentals\5.04 MaxIncreasingSequence\5.04 MaxIncreasingSequence\bin\5.04 MaxIncreasingSequence.pdb
+D:\Projects\JavaScript Fundamentals\5.04 MaxIncreasingSequence\5.04 MaxIncreasingSequence\obj\Debug\5.04 MaxIncreasingSequence.dll
+D:\Projects\JavaScript Fundamentals\5.04 MaxIncreasingSequence\5.04 MaxIncreasingSequence\obj\Debug\5.04 MaxIncreasingSequence.pdb

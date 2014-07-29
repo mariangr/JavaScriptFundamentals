@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [1, 2, 3, 4, 2, 5, 4];
+        var searchedNumber = array[0];
+        var sequenceNumber = 1;
+        var maxSequenceNumber = 1;
+        for (var i = 1; i < array.length; i++)
+        {
+            if (array[i] > searchedNumber)
+        {
+                sequenceNumber++;
+        }
+        else
+        {
+                sequenceNumber = 1;
+        }
+            if (maxSequenceNumber < sequenceNumber)
+        {
+                maxSequenceNumber = sequenceNumber;
+        }
+            searchedNumber = array[i];
+        }
+        document.write(maxSequenceNumber);
+        </script>
+
+</body>
+</html>
