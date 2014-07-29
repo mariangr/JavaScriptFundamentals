@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\3.02 SignOfProductOfThree\3.02 SignOfProductOfThree\bin\3.02 SignOfProductOfThree.dll
+D:\Projects\JavaScript Fundamentals\3.02 SignOfProductOfThree\3.02 SignOfProductOfThree\bin\3.02 SignOfProductOfThree.pdb
+D:\Projects\JavaScript Fundamentals\3.02 SignOfProductOfThree\3.02 SignOfProductOfThree\obj\Debug\3.02 SignOfProductOfThree.dll
+D:\Projects\JavaScript Fundamentals\3.02 SignOfProductOfThree\3.02 SignOfProductOfThree\obj\Debug\3.02 SignOfProductOfThree.pdb

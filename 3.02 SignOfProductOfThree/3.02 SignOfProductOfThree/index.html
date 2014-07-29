@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function Sign(first, second, third) {
+            var result = 0;
+            if (first >= 0) {
+                result++;
+            }
+            else {
+                result--;
+            };
+            if (second >= 0) {
+                result++;
+            }
+            else {
+                result--;
+            };
+            if (third >= 0) {
+                result++;
+            }
+            else {
+                result--;
+            };
+
+            if (result == 1 || result == -3) {
+                document.write(first + "*" + second + "*" + third + ": - <br>");
+            }
+            else if (result == -1 || result == 3) {
+                document.write(first + "*" + second + "*" + third + ": + <br>");
+            };
+        };
+
+        Sign(1, 5, -5);
+        Sign(-1, -5, -5);
+        Sign(-1, 5, -5);
+        Sign(1, 5, 5);
+        Sign(1, -5, -5);
+
+        </script>
+
+</body>
+</html>

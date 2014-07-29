@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function BiggestOfThree(first, second, third) {
+            if (first >= second) {
+                if (first >= third) {
+                    return first;
+                }
+                else {
+                    return third;
+                }
+            }
+            else {
+                if (second >= third) {
+                    return second;
+                }
+                else {
+                    return third;
+                }
+            }
+        }
+
+        document.write(BiggestOfThree(1, 2, 3) + "<br>");
+        document.write(BiggestOfThree(6, 2, 5) + "<br>");
+        document.write(BiggestOfThree(5, 5, 3) + "<br>");
+        document.write(BiggestOfThree(34, 344, 3) + "<br>");
+        document.write(BiggestOfThree(3, 2, 1) + "<br>");
+
+        </script>
+
+</body>
+</html>

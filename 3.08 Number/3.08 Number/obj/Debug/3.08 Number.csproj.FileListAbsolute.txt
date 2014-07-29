@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\3.08 Number\3.08 Number\bin\3.08 Number.dll
+D:\Projects\JavaScript Fundamentals\3.08 Number\3.08 Number\bin\3.08 Number.pdb
+D:\Projects\JavaScript Fundamentals\3.08 Number\3.08 Number\obj\Debug\3.08 Number.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\3.08 Number\3.08 Number\obj\Debug\3.08 Number.dll
+D:\Projects\JavaScript Fundamentals\3.08 Number\3.08 Number\obj\Debug\3.08 Number.pdb

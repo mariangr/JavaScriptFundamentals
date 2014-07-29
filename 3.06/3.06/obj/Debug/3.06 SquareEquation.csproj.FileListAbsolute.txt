@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\3.06\3.06\bin\3.06.dll
+D:\Projects\JavaScript Fundamentals\3.06\3.06\bin\3.06.pdb
+D:\Projects\JavaScript Fundamentals\3.06\3.06\obj\Debug\3.06.dll
+D:\Projects\JavaScript Fundamentals\3.06\3.06\obj\Debug\3.06.pdb

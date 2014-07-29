@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="inputdiv">
+            <div class="input">
+            <label for="tb-first">Number: </label>
+            <input type="text" id="threeDigitNumber"/>
+
+            </div>	
+            <div id="inputbutton">
+            <a href="#" onclick="TranslateNumber()">Translate number</a>
+            </div>
+        </div>
+
+    <script>
+        function TranslateNumber() {
+
+            var number = document.getElementById("threeDigitNumber").value * 1;
+            document.write(number + "<br>");
+            var result = "";
+            if (((number / 100) | 0) > 9) {
+                document.write("The number must be in range [0,999]. <br>");
+            }
+            else {
+                var first = (number / 100 | 0);
+                var second = (number / 10 | 0) % 10;
+                var third = number % 10;
+
+                if (number == 0) {
+                    document.write("zero");
+                }
+                if (first == 0) {
+                    if (second == 0) {
+                        result += ReturnFirstNumberWord(third);
+                    }
+                    else {
+                        result += ReturnSecondAndThirdNumber(second, third);
+                    }
+                }
+                else {
+                    result += ReturnFirstNumberWord(first) + "hundred and ";
+                    result += ReturnSecondAndThirdNumber(second, third);
+                }
+
+                document.write(result);
+            }
+        }
+
+        function ReturnFirstNumberWord(number) {
+            var str = "";
+            switch (number) {
+                case 1: str = "one "; break;
+                case 2: str = "two "; break;
+                case 3: str = "three "; break;
+                case 4: str = "four "; break;
+                case 5: str = "five "; break;
+                case 6: str = "six "; break;
+                case 7: str = "seven "; break;
+                case 8: str = "eight "; break;
+                case 9: str = "nine "; break;
+                default: str = "";
+            }
+            return str;
+        }
+
+        function ReturnSecondAndThirdNumber(second, third)
+        {
+            var secondResult = "";
+            if (second == 1) {
+                switch (third) {
+                    case 0: secondResult += "ten"; break;
+                    case 1: secondResult += "eleven "; break;
+                    case 2: secondResult += "twelve "; break;
+                    case 3: secondResult += "thirteen "; break;
+                    case 4: secondResult += "fourteen "; break;
+                    case 5: secondResult += "fifteen "; break;
+                    case 6: secondResult += "sixteen "; break;
+                    case 7: secondResult += "seventeen "; break;
+                    case 8: secondResult += "eighteen "; break;
+                    case 9: secondResult += "nineteen "; break;
+                    default: secondResult += "";
+                }
+
+            }
+            else {
+                switch (second) {
+                    case 2: secondResult += "twenty "; break;
+                    case 3: secondResult += "thirty "; break;
+                    case 4: secondResult += "fourty "; break;
+                    case 5: secondResult += "fifty "; break;
+                    case 6: secondResult += "sixty "; break;
+                    case 7: secondResult += "seventy "; break;
+                    case 8: secondResult += "eighty "; break;
+                    case 9: secondResult += "ninety "; break;
+                }
+                secondResult += ReturnFirstNumberWord(third);
+            }
+            return secondResult;
+        }
+        </script>
+
+</body>
+</html>

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    	<div id="inputdiv">
+            <div class="input">
+            <label for="tb-first">a: </label>
+            <input type="text" id="A"/>
+            </div>	
+            <div class="input">
+            <label for="tb-first">b: </label>
+            <input type="text" id="B"/>
+            </div>	
+            <div class="input">
+            <label for="tb-first">c: </label>
+            <input type="text" id="C"/>
+            </div>	
+
+            <div id="inputbutton">
+            <a href="#" onclick="CalculateRoots()">Calculate roots</a>
+            </div>
+        </div>
+
+    <script>
+        function CalculateRoots() {
+            var A = document.getElementById("A").value * 1;
+            var B = document.getElementById("B").value * 1;
+            var C = document.getElementById("C").value * 1;
+
+            var D = B * B - 4 * A * C;
+
+            if (D < 0)
+            {
+                document.write("The equation doesn't have real roots.");
+            }
+            else if (D == 0) {
+                document.write("Root: " + (-B / (2 * A)));
+            }
+            else {
+                document.write("First root: " + ((-B + Math.sqrt(D))/ (2 * A)) + "<br>");
+                document.write("Second root: " + ((-B - Math.sqrt(D))/ (2 * A)));
+            }
+        }
+
+
+        </script>
+
+</body>
+</html>

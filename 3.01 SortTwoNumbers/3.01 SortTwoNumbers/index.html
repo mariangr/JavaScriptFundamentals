@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function CompareAndSortNumbers(first, second) {
+            if (first > second) {
+                var temp = first;
+                first = second;
+                second = temp;
+            }
+            document.write("first number: " + first + "<br>");
+            document.write("second number: " + second + "<br>");
+        }
+
+        CompareAndSortNumbers(2, 1);
+        CompareAndSortNumbers(6, 9);
+        CompareAndSortNumbers(3, 1);
+        CompareAndSortNumbers(10, 20);
+        CompareAndSortNumbers(30, 5);
+        CompareAndSortNumbers(87, 7825);
+
+        </script>
+
+</body>
+</html>

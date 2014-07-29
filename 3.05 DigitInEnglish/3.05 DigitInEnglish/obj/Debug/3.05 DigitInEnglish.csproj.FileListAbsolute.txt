@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\3.05 DigitInEnglish\3.05 DigitInEnglish\bin\3.05 DigitInEnglish.dll
+D:\Projects\JavaScript Fundamentals\3.05 DigitInEnglish\3.05 DigitInEnglish\bin\3.05 DigitInEnglish.pdb
+D:\Projects\JavaScript Fundamentals\3.05 DigitInEnglish\3.05 DigitInEnglish\obj\Debug\3.05 DigitInEnglish.dll
+D:\Projects\JavaScript Fundamentals\3.05 DigitInEnglish\3.05 DigitInEnglish\obj\Debug\3.05 DigitInEnglish.pdb

@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\AllNumbersNotDividedBy3And7\AllNumbersNotDividedBy3And7\bin\AllNumbersNotDividedBy3And7.dll
+D:\Projects\JavaScript Fundamentals\AllNumbersNotDividedBy3And7\AllNumbersNotDividedBy3And7\bin\AllNumbersNotDividedBy3And7.pdb
+D:\Projects\JavaScript Fundamentals\AllNumbersNotDividedBy3And7\AllNumbersNotDividedBy3And7\obj\Debug\AllNumbersNotDividedBy3And7.dll
+D:\Projects\JavaScript Fundamentals\AllNumbersNotDividedBy3And7\AllNumbersNotDividedBy3And7\obj\Debug\AllNumbersNotDividedBy3And7.pdb

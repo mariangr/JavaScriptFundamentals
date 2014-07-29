@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\3.04 DescendingSort\3.04 DescendingSort\bin\3.04 DescendingSort.dll
+D:\Projects\JavaScript Fundamentals\3.04 DescendingSort\3.04 DescendingSort\bin\3.04 DescendingSort.pdb
+D:\Projects\JavaScript Fundamentals\3.04 DescendingSort\3.04 DescendingSort\obj\Debug\3.04 DescendingSort.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\3.04 DescendingSort\3.04 DescendingSort\obj\Debug\3.04 DescendingSort.dll
+D:\Projects\JavaScript Fundamentals\3.04 DescendingSort\3.04 DescendingSort\obj\Debug\3.04 DescendingSort.pdb

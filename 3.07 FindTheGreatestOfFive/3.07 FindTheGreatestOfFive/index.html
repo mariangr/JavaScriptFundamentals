@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function TheGreatest(first, second, third, fourth, fifth) {
+            var biggest = first;
+            if (biggest < second) biggest = second;
+            if (biggest < third) biggest = third;
+            if (biggest < fourth) biggest = fourth;
+            if (biggest < fifth) biggest = fifth;
+
+            return biggest;
+
+        }
+
+        document.write(TheGreatest(1, 2, 3, 4, 5) + "<br>");
+        document.write(TheGreatest(56,56,8,1,8) + "<br>");
+        document.write(TheGreatest(5,4,8,4,2) + "<br>");
+        document.write(TheGreatest(4,5,2,5,8) + "<br>");
+
+        </script>
+
+</body>
+</html>
