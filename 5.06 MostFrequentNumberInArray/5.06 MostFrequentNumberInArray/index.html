@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3];
+
+        var mostFrequentNumber = array[0];
+        var brF = 0;
+        var br = 0;
+
+        for (var i = 0; i < array.length; i++)
+        {
+            var currentNumber = array[i];
+            for (var j = i; j < array.length; j++)
+        {
+                if (currentNumber == array[j])
+        {
+                    br++;
+        }
+        }
+            if (br > brF)
+        {
+                brF = br;
+                mostFrequentNumber = currentNumber;
+        }
+            br = 0;
+
+        }
+        document.write("Most Frequent Number: " + mostFrequentNumber);
+
+
+
+        </script>
+
+</body>
+</html>

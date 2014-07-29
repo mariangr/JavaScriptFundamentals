@@ -1,0 +1,5 @@
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptFundamentals\5.07 FindIndexOfElement\5.07 FindIndexOfElement\bin\5.07 FindIndexOfElement.dll.config
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptFundamentals\5.07 FindIndexOfElement\5.07 FindIndexOfElement\bin\5.07 FindIndexOfElement.dll
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptFundamentals\5.07 FindIndexOfElement\5.07 FindIndexOfElement\bin\5.07 FindIndexOfElement.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptFundamentals\5.07 FindIndexOfElement\5.07 FindIndexOfElement\obj\Debug\5.07 FindIndexOfElement.dll
+C:\Users\Hueco Mundo\Documents\GitHub\JavaScriptFundamentals\5.07 FindIndexOfElement\5.07 FindIndexOfElement\obj\Debug\5.07 FindIndexOfElement.pdb

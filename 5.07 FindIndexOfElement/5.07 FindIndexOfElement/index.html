@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [0, 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, 13, 15, 20, 30];
+
+        function BinarySearch(first, last, element, array) {
+            middle = (first + last) / 2 | 0;
+
+
+            if (element > array[middle]) {
+                BinarySearch(middle, last, element, array);
+            }
+            else if (element < array[middle]) {
+                BinarySearch(first, middle, element, array);
+            }
+            else if (element == array[middle]) {
+                document.write(middle + "<br>");
+                //return;
+            }
+
+        }
+
+        BinarySearch(0, array.length, 11, array);
+
+
+        </script>
+
+</body>
+</html>
