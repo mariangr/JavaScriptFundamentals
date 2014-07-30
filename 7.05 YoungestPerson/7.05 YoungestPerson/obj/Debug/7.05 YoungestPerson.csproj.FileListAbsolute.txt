@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\7.05 YoungestPerson\7.05 YoungestPerson\bin\7.05 YoungestPerson.dll
+D:\Projects\JavaScript Fundamentals\7.05 YoungestPerson\7.05 YoungestPerson\bin\7.05 YoungestPerson.pdb
+D:\Projects\JavaScript Fundamentals\7.05 YoungestPerson\7.05 YoungestPerson\obj\Debug\7.05 YoungestPerson.dll
+D:\Projects\JavaScript Fundamentals\7.05 YoungestPerson\7.05 YoungestPerson\obj\Debug\7.05 YoungestPerson.pdb

@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\6.01 LastDigitOfANumber\6.01 LastDigitOfANumber\bin\6.01 LastDigitOfANumber.dll
+D:\Projects\JavaScript Fundamentals\6.01 LastDigitOfANumber\6.01 LastDigitOfANumber\bin\6.01 LastDigitOfANumber.pdb
+D:\Projects\JavaScript Fundamentals\6.01 LastDigitOfANumber\6.01 LastDigitOfANumber\obj\Debug\6.01 LastDigitOfANumber.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\6.01 LastDigitOfANumber\6.01 LastDigitOfANumber\obj\Debug\6.01 LastDigitOfANumber.dll
+D:\Projects\JavaScript Fundamentals\6.01 LastDigitOfANumber\6.01 LastDigitOfANumber\obj\Debug\6.01 LastDigitOfANumber.pdb

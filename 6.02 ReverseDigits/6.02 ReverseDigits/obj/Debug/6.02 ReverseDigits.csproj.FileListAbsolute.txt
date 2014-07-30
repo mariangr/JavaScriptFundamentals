@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\6.02 ReverseDigits\6.02 ReverseDigits\bin\6.02 ReverseDigits.dll
+D:\Projects\JavaScript Fundamentals\6.02 ReverseDigits\6.02 ReverseDigits\bin\6.02 ReverseDigits.pdb
+D:\Projects\JavaScript Fundamentals\6.02 ReverseDigits\6.02 ReverseDigits\obj\Debug\6.02 ReverseDigits.dll
+D:\Projects\JavaScript Fundamentals\6.02 ReverseDigits\6.02 ReverseDigits\obj\Debug\6.02 ReverseDigits.pdb

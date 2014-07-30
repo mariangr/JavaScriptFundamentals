@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function PersonBuilder(firstName, lastName, age) {
+            return{
+                firstName : firstName,
+                lastName : lastName,
+                age: age * 1,        
+            }
+        }
+
+
+        function GetYoungestPerson(persons) {
+            var youngest = PersonBuilder(persons[0].firstName, persons[0].lastName, persons[0].age);
+            for (var i = 1; i < persons.length; i++) {
+                if (youngest.age > persons[i].age) {
+                    youngest = PersonBuilder(persons[i].firstName, persons[i].lastName, persons[i].age);
+                }
+            }
+            document.write(youngest.firstName + "</br>"
+                  + youngest.lastName + "</br>"
+                  + youngest.age + "</br>");
+        }
+
+        var persons = [
+            PersonBuilder('Gosho', 'Petrov', 32),
+            PersonBuilder('Bay', 'Ivan', 81)];
+
+        GetYoungestPerson(persons);
+        </script>
+</body>
+</html>

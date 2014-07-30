@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\7.06 GroupingPeople\7.06 GroupingPeople\bin\7.06 GroupingPeople.dll
+D:\Projects\JavaScript Fundamentals\7.06 GroupingPeople\7.06 GroupingPeople\bin\7.06 GroupingPeople.pdb
+D:\Projects\JavaScript Fundamentals\7.06 GroupingPeople\7.06 GroupingPeople\obj\Debug\7.06 GroupingPeople.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\7.06 GroupingPeople\7.06 GroupingPeople\obj\Debug\7.06 GroupingPeople.dll
+D:\Projects\JavaScript Fundamentals\7.06 GroupingPeople\7.06 GroupingPeople\obj\Debug\7.06 GroupingPeople.pdb

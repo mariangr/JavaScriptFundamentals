@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\6.07 AreTheNeighboursBigger\6.07 AreTheNeighboursBigger\bin\6.07 AreTheNeighboursBigger.dll
+D:\Projects\JavaScript Fundamentals\6.07 AreTheNeighboursBigger\6.07 AreTheNeighboursBigger\bin\6.07 AreTheNeighboursBigger.pdb
+D:\Projects\JavaScript Fundamentals\6.07 AreTheNeighboursBigger\6.07 AreTheNeighboursBigger\obj\Debug\6.07 AreTheNeighboursBigger.dll
+D:\Projects\JavaScript Fundamentals\6.07 AreTheNeighboursBigger\6.07 AreTheNeighboursBigger\obj\Debug\6.07 AreTheNeighboursBigger.pdb
+D:\Projects\JavaScript Fundamentals\6.07 AreTheNeighboursBigger\6.07 AreTheNeighboursBigger\obj\Debug\6.07 AreTheNeighboursBigger.csprojResolveAssemblyReference.cache

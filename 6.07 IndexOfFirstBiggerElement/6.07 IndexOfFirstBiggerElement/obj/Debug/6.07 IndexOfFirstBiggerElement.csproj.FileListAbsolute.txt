@@ -1,0 +1,5 @@
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\6.07 IndexOfFirstBiggerElement\6.07 IndexOfFirstBiggerElement\bin\6.07 IndexOfFirstBiggerElement.dll
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\6.07 IndexOfFirstBiggerElement\6.07 IndexOfFirstBiggerElement\bin\6.07 IndexOfFirstBiggerElement.pdb
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\6.07 IndexOfFirstBiggerElement\6.07 IndexOfFirstBiggerElement\obj\Debug\6.07 IndexOfFirstBiggerElement.csprojResolveAssemblyReference.cache
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\6.07 IndexOfFirstBiggerElement\6.07 IndexOfFirstBiggerElement\obj\Debug\6.07 IndexOfFirstBiggerElement.dll
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\6.07 IndexOfFirstBiggerElement\6.07 IndexOfFirstBiggerElement\obj\Debug\6.07 IndexOfFirstBiggerElement.pdb

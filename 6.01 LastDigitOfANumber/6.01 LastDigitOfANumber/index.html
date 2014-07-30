@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function GetLastDigit(number) {
+            var digit = number % 10;
+
+            switch (digit)
+            {
+                case 0: return 'zero';
+                    break;
+                case 1: return 'one';
+                    break;
+                case 2: return 'two';
+                    break;
+                case 3: return 'three';
+                    break;
+                case 4: return 'four';
+                    break;
+                case 5: return 'five';
+                    break;
+                case 6: return 'six';
+                    break;
+                case 7: return 'seven';
+                    break;
+                case 8: return 'eight';
+                    break;
+                case 9: return 'nine';
+                    break;
+                default: return "NaN";
+            }
+
+
+        }
+
+        document.write(GetLastDigit(0) + "<br>");
+        document.write(GetLastDigit(646) + "<br>");
+        document.write(GetLastDigit(1248) + "<br>");
+        document.write(GetLastDigit(2582348) + "<br>");
+        document.write(GetLastDigit(10) + "<br>");
+        document.write(GetLastDigit(54) + "<br>");
+        </script>
+
+</body>
+</html>

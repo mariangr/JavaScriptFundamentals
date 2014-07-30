@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var numbers = [1, 2, 3, 5, 8, 9, 6, 5, 4, 6, 5, 2, 4, 6, 54, 47, 8, 5, 48, 6, 5, 58, 6, 4];
+
+
+        function TheFirstBiggerElement(array) {
+            var index = null;
+
+            for (var i = 0; i < array.length; i++) {
+                if (i != 0 && i != array.length - 1) {
+                    if (array[i] > array[i - 1] && array[i] > array[i + 1]) {
+                        index = i;
+                        break;
+                    }
+                }
+            }
+
+            if (index != null) {
+                return index;
+            }
+            else {
+                return -1;
+            }
+        }
+        
+
+        document.write(TheFirstBiggerElement(numbers) + "<br>");
+
+
+        </script>
+
+</body>
+</html>

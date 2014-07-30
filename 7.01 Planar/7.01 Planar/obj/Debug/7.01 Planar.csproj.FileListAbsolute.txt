@@ -1,0 +1,5 @@
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.01 Planar\7.01 Planar\bin\7.01 Planar.dll
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.01 Planar\7.01 Planar\bin\7.01 Planar.pdb
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.01 Planar\7.01 Planar\obj\Debug\7.01 Planar.csprojResolveAssemblyReference.cache
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.01 Planar\7.01 Planar\obj\Debug\7.01 Planar.dll
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.01 Planar\7.01 Planar\obj\Debug\7.01 Planar.pdb

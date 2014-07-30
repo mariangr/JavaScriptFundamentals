@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function getPoint(x, y) {
+            return { x: x, y: y };
+        }
+
+
+        function getLine(point1, point2) {
+            return { pointA: point1, pointB: point2 };
+        }
+
+        function calculateDistance(point1, point2) {
+            return Math.sqrt(Math.abs(point1.x - point2.x) * Math.abs(point1.x - point2.x) + Math.abs(point1.y - point2.y) * Math.abs(point1.y - point2.y));
+        }
+
+        function IsPossibleFormingATriangle(line1, line2, line3) {
+            var a = calculateDistance(line1.pointA, line1.pointB);
+            var b = calculateDistance(line2.pointA, line2.pointB);
+            var c = calculateDistance(line3.pointA, line3.pointB);
+            if (a + b > c && a + c > b && b + c > a) {
+                document.write("true");
+            } else {
+                document.write("false");
+            }
+        }
+
+        var p1 = getPoint(1, 2);
+        var p2 = getPoint(2, 2);
+        var p3 = getPoint(3, 1);
+
+        var l1 = getLine(p1, p2);
+        var l2 = getLine(p2, p3);
+        var l3 = getLine(p1, p3);
+
+        document.write(calculateDistance(p3, p2) + "<br>");
+        
+        IsPossibleFormingATriangle(l1, l2, l3);
+        </script>
+    </body>
+</html>

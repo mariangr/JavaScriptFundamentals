@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\7.04 ObjectHasProperty\7.04 ObjectHasProperty\bin\7.04 ObjectHasProperty.dll
+D:\Projects\JavaScript Fundamentals\7.04 ObjectHasProperty\7.04 ObjectHasProperty\bin\7.04 ObjectHasProperty.pdb
+D:\Projects\JavaScript Fundamentals\7.04 ObjectHasProperty\7.04 ObjectHasProperty\obj\Debug\7.04 ObjectHasProperty.dll
+D:\Projects\JavaScript Fundamentals\7.04 ObjectHasProperty\7.04 ObjectHasProperty\obj\Debug\7.04 ObjectHasProperty.pdb

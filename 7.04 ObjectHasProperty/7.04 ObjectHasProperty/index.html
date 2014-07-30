@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function hasProperty(obj, prpt) {
+            for (var i in obj) {
+                if (i == prpt) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        var test = {
+            aveEi: 5,
+            babaYaga: 7,
+            c: 9
+        }
+
+        var hasPropertyOf = hasProperty(test, "babaYaga");
+        document.write(hasPropertyOf);
+
+
+        </script>
+</body>
+</html>

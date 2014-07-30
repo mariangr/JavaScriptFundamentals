@@ -1,0 +1,4 @@
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.02 RemoveAllElementsOfGivenValue\7.02 RemoveAllElementsOfGivenValue\bin\7.02 RemoveAllElementsOfGivenValue.dll
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.02 RemoveAllElementsOfGivenValue\7.02 RemoveAllElementsOfGivenValue\bin\7.02 RemoveAllElementsOfGivenValue.pdb
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.02 RemoveAllElementsOfGivenValue\7.02 RemoveAllElementsOfGivenValue\obj\Debug\7.02 RemoveAllElementsOfGivenValue.dll
+C:\Users\marian.graurov\Documents\Visual Studio 2012\Projects\7.02 RemoveAllElementsOfGivenValue\7.02 RemoveAllElementsOfGivenValue\obj\Debug\7.02 RemoveAllElementsOfGivenValue.pdb
