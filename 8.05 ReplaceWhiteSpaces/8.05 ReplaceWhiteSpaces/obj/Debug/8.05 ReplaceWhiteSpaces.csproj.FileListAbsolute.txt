@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\8.05 ReplaceWhiteSpaces\8.05 ReplaceWhiteSpaces\bin\8.05 ReplaceWhiteSpaces.dll
+D:\Projects\JavaScript Fundamentals\8.05 ReplaceWhiteSpaces\8.05 ReplaceWhiteSpaces\bin\8.05 ReplaceWhiteSpaces.pdb
+D:\Projects\JavaScript Fundamentals\8.05 ReplaceWhiteSpaces\8.05 ReplaceWhiteSpaces\obj\Debug\8.05 ReplaceWhiteSpaces.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\8.05 ReplaceWhiteSpaces\8.05 ReplaceWhiteSpaces\obj\Debug\8.05 ReplaceWhiteSpaces.dll
+D:\Projects\JavaScript Fundamentals\8.05 ReplaceWhiteSpaces\8.05 ReplaceWhiteSpaces\obj\Debug\8.05 ReplaceWhiteSpaces.pdb

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var text = new String("<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>");
+
+        function ExtractText(text) {
+            var i = 0
+            while (true) {
+                var start = text.indexOf("<", i);
+                var end = text.indexOf(">", i);
+                while (true) {
+                    if (text[end + 1] == "<") {
+                        end = text.indexOf(">", end + 1);
+                    }
+                    else {
+                        break;
+                    }
+                }
+                text = text.replace(text.substring(start, end + 1), " ");
+                i = 0;
+                if (start == -1) {
+                    break;
+                }
+            }
+            return text;
+        }
+
+        document.write(ExtractText(text).toString().trim());
+
+
+
+        </script>
+</body>
+</html>

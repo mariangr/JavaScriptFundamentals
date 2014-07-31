@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var string = "abcdefghijklmnopqrstuvwxyz";
+        var stringBuilder = buildStringBuilder();
+        
+        function buildStringBuilder() {
+            return {
+                strs: [],
+                len: 0,
+                append: function (str) {
+                    this.strs[this.len++] = str;
+                    return this;
+                },
+                toString: function () {
+                    return this.strs.join("");
+                }
+            }
+        }
+
+        for (var i = string.length - 1; i >= 0; i--) {
+            stringBuilder.append(string[i]);
+        }
+
+        document.write(stringBuilder.toString());
+        </script>
+</body>
+</html>

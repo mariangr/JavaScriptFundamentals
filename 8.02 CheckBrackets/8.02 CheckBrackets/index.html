@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var expression1 = "((a+b)/5-d)";
+        var expression2 = ")(a+b))";
+
+        var br = [];
+
+        function IsCorrect (expression){
+            for (var i = 0; i < expression.length; i++) {
+                if (expression[i] == '(') {
+                    br.push(1);
+                }
+                if (expression[i] == ')') {
+                    if (br.length == 0) {
+                        br.push(1);
+                        break;
+                    }
+                    br.pop();
+                }
+            }
+
+            if (br.length != 0) {
+                document.write("The expression is not correct.");
+            }
+            else {
+                document.write("The expression is correct.");
+            }
+        }
+
+        document.write(expression1 + " ");
+        IsCorrect(expression1)
+        document.write("<br>");
+        document.write(expression2 + " ");
+        IsCorrect(expression2)
+        </script>
+
+</body>
+</html>

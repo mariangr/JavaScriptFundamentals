@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\8.10 ExtractAllPolindromes\8.10 ExtractAllPolindromes\bin\8.10 ExtractAllPolindromes.dll
+D:\Projects\JavaScript Fundamentals\8.10 ExtractAllPolindromes\8.10 ExtractAllPolindromes\bin\8.10 ExtractAllPolindromes.pdb
+D:\Projects\JavaScript Fundamentals\8.10 ExtractAllPolindromes\8.10 ExtractAllPolindromes\obj\Debug\8.10 ExtractAllPolindromes.dll
+D:\Projects\JavaScript Fundamentals\8.10 ExtractAllPolindromes\8.10 ExtractAllPolindromes\obj\Debug\8.10 ExtractAllPolindromes.pdb

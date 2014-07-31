@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    	<script>
+    	    function stringFormat(text, wordsArr) {
+    	        var strB = buildStringBuilder();
+    	        var beggining = 0;
+    	        var firstIndex = text.indexOf("{");
+    	        var lastIndex = text.indexOf("}");
+
+    	        while (firstIndex > -1) {
+    	            var number = parseInt(text.substring(firstIndex + 1, lastIndex));
+    	            strB.append(text.substring(beggining, firstIndex - 1) + " ");
+    	            strB.append(wordsArr[number] + " ");
+    	            beggining = lastIndex + 1;
+    	            firstIndex = text.indexOf("{", firstIndex + 1);
+    	            lastIndex = text.indexOf("}", lastIndex + 1)
+    	        }
+    	        return strB.toString();
+    	    }
+    	    function buildStringBuilder() {
+    	        return {
+    	            strs: [],
+    	            len: 0,
+    	            append: function (str) {
+    	                this.strs[this.len++] = str;
+    	                return this;
+    	            },
+    	            toString: function () {
+    	                return this.strs.join("");
+    	            }
+    	        };
+    	    }
+
+    	    document.writeln(stringFormat("{0},dhfth {1} , hellloooo {1}, spogfpr {3} {2} {10} {10}", [1,2,3,5,6,7,8,9,10,11,12]));
+
+
+            </script>
+</body>
+</html>

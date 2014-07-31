@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\8.07 ParseURL\8.07 ParseURL\bin\8.07 ParseURL.dll
+D:\Projects\JavaScript Fundamentals\8.07 ParseURL\8.07 ParseURL\bin\8.07 ParseURL.pdb
+D:\Projects\JavaScript Fundamentals\8.07 ParseURL\8.07 ParseURL\obj\Debug\8.07 ParseURL.dll
+D:\Projects\JavaScript Fundamentals\8.07 ParseURL\8.07 ParseURL\obj\Debug\8.07 ParseURL.pdb

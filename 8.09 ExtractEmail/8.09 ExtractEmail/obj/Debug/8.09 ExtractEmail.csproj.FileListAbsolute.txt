@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\8.09 ExtractEmail\8.09 ExtractEmail\bin\8.09 ExtractEmail.dll
+D:\Projects\JavaScript Fundamentals\8.09 ExtractEmail\8.09 ExtractEmail\bin\8.09 ExtractEmail.pdb
+D:\Projects\JavaScript Fundamentals\8.09 ExtractEmail\8.09 ExtractEmail\obj\Debug\8.09 ExtractEmail.dll
+D:\Projects\JavaScript Fundamentals\8.09 ExtractEmail\8.09 ExtractEmail\obj\Debug\8.09 ExtractEmail.pdb

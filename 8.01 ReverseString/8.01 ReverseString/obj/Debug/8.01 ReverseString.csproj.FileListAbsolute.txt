@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\8.01 ReverseString\8.01 ReverseString\bin\8.01 ReverseString.dll
+D:\Projects\JavaScript Fundamentals\8.01 ReverseString\8.01 ReverseString\bin\8.01 ReverseString.pdb
+D:\Projects\JavaScript Fundamentals\8.01 ReverseString\8.01 ReverseString\obj\Debug\8.01 ReverseString.csprojResolveAssemblyReference.cache
+D:\Projects\JavaScript Fundamentals\8.01 ReverseString\8.01 ReverseString\obj\Debug\8.01 ReverseString.dll
+D:\Projects\JavaScript Fundamentals\8.01 ReverseString\8.01 ReverseString\obj\Debug\8.01 ReverseString.pdb

@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\8.11 StringFormat\8.11 StringFormat\bin\8.11 StringFormat.dll
+D:\Projects\JavaScript Fundamentals\8.11 StringFormat\8.11 StringFormat\bin\8.11 StringFormat.pdb
+D:\Projects\JavaScript Fundamentals\8.11 StringFormat\8.11 StringFormat\obj\Debug\8.11 StringFormat.dll
+D:\Projects\JavaScript Fundamentals\8.11 StringFormat\8.11 StringFormat\obj\Debug\8.11 StringFormat.pdb

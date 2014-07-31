@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\8.04 ChangeTextWithTags\8.04 ChangeTextWithTags\bin\8.04 ChangeTextWithTags.dll
+D:\Projects\JavaScript Fundamentals\8.04 ChangeTextWithTags\8.04 ChangeTextWithTags\bin\8.04 ChangeTextWithTags.pdb
+D:\Projects\JavaScript Fundamentals\8.04 ChangeTextWithTags\8.04 ChangeTextWithTags\obj\Debug\8.04 ChangeTextWithTags.dll
+D:\Projects\JavaScript Fundamentals\8.04 ChangeTextWithTags\8.04 ChangeTextWithTags\obj\Debug\8.04 ChangeTextWithTags.pdb

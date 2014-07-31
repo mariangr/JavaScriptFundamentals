@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\8.06 ExtractSimpleText\8.06 ExtractSimpleText\bin\8.06 ExtractSimpleText.dll
+D:\Projects\JavaScript Fundamentals\8.06 ExtractSimpleText\8.06 ExtractSimpleText\bin\8.06 ExtractSimpleText.pdb
+D:\Projects\JavaScript Fundamentals\8.06 ExtractSimpleText\8.06 ExtractSimpleText\obj\Debug\8.06 ExtractSimpleText.dll
+D:\Projects\JavaScript Fundamentals\8.06 ExtractSimpleText\8.06 ExtractSimpleText\obj\Debug\8.06 ExtractSimpleText.pdb
+D:\Projects\JavaScript Fundamentals\8.06 ExtractSimpleText\8.06 ExtractSimpleText\obj\Debug\8.06 ExtractSimpleText.csprojResolveAssemblyReference.cache

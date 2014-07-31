@@ -1,0 +1,5 @@
+D:\Projects\JavaScript Fundamentals\8.08 ReplaceTags\8.08 ReplaceTags\bin\8.08 ReplaceTags.dll
+D:\Projects\JavaScript Fundamentals\8.08 ReplaceTags\8.08 ReplaceTags\bin\8.08 ReplaceTags.pdb
+D:\Projects\JavaScript Fundamentals\8.08 ReplaceTags\8.08 ReplaceTags\obj\Debug\8.08 ReplaceTags.dll
+D:\Projects\JavaScript Fundamentals\8.08 ReplaceTags\8.08 ReplaceTags\obj\Debug\8.08 ReplaceTags.pdb
+D:\Projects\JavaScript Fundamentals\8.08 ReplaceTags\8.08 ReplaceTags\obj\Debug\8.08 ReplaceTags.csprojResolveAssemblyReference.cache

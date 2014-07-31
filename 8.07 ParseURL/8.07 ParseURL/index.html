@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="inputdiv">
+            <div class="input">
+            <label for="tb-first">URL: </label>
+            <input type="text" id="URL"/>
+
+            </div>	
+            <div id="inputbutton">
+            <a href="#" onclick="GetElements()">Get elements</a>
+            </div>
+        </div>
+
+    <script>
+        function GetElements() {
+            var url = document.getElementById("URL").value;
+            var protocol = url.substring(0, url.indexOf("://"));
+            var server = url.substring(url.indexOf("://") + 3, url.indexOf("/", url.indexOf("://") + 3));
+            var resource = url.substring(url.indexOf("/", url.indexOf("://") + 4), url.length);
+
+            document.write( "{ protocol: " + protocol + ", server: " + server + ", resource: " + resource + " }");
+        }
+
+
+        </script>
+
+</body>
+</html>

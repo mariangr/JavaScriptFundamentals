@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    	<script>
+    	    var text = "Here are some emails marian_graurov@abv.bg and may be some more mails marian.graurov@icb.bg ";
+    	    var emailArr = [];
+    	    var index = text.indexOf("@");
+    	    while (index > -1) {
+    	        if (text[index - 1] != " " && text[index + 1] != " ") {
+    	            var identifier = text.substring(text.lastIndexOf(" ", index - 1), index);
+    	            var host = text.substring(index + 1, text.indexOf(" ", index + 1));
+    	            var email = identifier + "@" + host;
+    	            emailArr.push(email);
+    	            index = text.indexOf("@", index + 1);
+    	        }
+    	    }
+    	    for (var email in emailArr) {
+    	        document.write(emailArr[email]);
+    	    }
+
+
+
+</script>
+
+</body>
+</html>

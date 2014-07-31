@@ -1,0 +1,4 @@
+D:\Projects\JavaScript Fundamentals\8.02 CheckBrackets\8.02 CheckBrackets\bin\8.02 CheckBrackets.dll
+D:\Projects\JavaScript Fundamentals\8.02 CheckBrackets\8.02 CheckBrackets\bin\8.02 CheckBrackets.pdb
+D:\Projects\JavaScript Fundamentals\8.02 CheckBrackets\8.02 CheckBrackets\obj\Debug\8.02 CheckBrackets.dll
+D:\Projects\JavaScript Fundamentals\8.02 CheckBrackets\8.02 CheckBrackets\obj\Debug\8.02 CheckBrackets.pdb

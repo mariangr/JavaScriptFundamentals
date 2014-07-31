@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div data-type="template" id="list-item">
+    <strong>-{name}-</strong> <span>-{age}-</span>
+    </div>
+
+    	<script>
+
+    	    var people = [{ name: "gosho", age: 3 }, { name: "penio", age: 29 }, { name: "bat asen", age: 30 }];
+    	    var temp = document.getElementById("list-item").innerHTML;
+    	    var finalArr = generateList(temp, people);
+    	    for (var i = 0; i < finalArr.length; i += 2) {
+    	        document.write("<ul><li><strong>" + finalArr[i] + "</strong></li><li><span>" + finalArr[i + 1] + "</span></li></ul>")
+    	    }
+    	    function generateList(temp, people) {
+    	        var liArr = [];
+    	        for (var person in people) {
+    	            liArr.push(people[person].name);
+    	            liArr.push(people[person].age);
+    	        }
+    	        return liArr;
+    	    }
+
+
+    	    
+
+            </script>
+</body>
+</html>

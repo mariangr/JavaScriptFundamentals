@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    	<script;>
+    	    var sometext = new String(' Mr.Andersen,surprise to see me? ');
+    	    document.write(replaceAllWhiteSpaces(sometext, '&nbsp'));
+    	    function replaceAllWhiteSpaces(text, newSymbol) {
+    	        var result = '';
+    	        for (var i = 0; i < text.length; i++) {
+    	            if (text[i] == ' ') {
+    	                result += newSymbol;
+    	            }
+    	            else {
+    	                result += text[i];
+    	            }
+    	        }
+    	        return result;
+    	    };
+
+
+
+            </script>
+</body>
+</html>
